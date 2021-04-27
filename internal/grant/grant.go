@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/llinder/svtauth/internal/model"
+	"github.com/llinder/svtauthpoc/internal/model"
 )
 
 type GrantError struct {

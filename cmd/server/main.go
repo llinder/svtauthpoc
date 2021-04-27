@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/llinder/svtauth/internal/routes"
+	"github.com/llinder/svtauthpoc/internal/routes"
 
 	"github.com/akamensky/argparse"
 	"github.com/gin-gonic/gin"

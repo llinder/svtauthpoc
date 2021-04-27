@@ -9,5 +9,3 @@ build: build-client  build-server
 run-server:
 	CompileDaemon -build="go build -o bin/server cmd/server/main.go" -command ./bin/server
 
-#run-client:
-#	go run cmd/svtauth-client/main.go $(ARGS)

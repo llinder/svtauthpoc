@@ -3,8 +3,8 @@ package routes
 import (
 	"net/http"
 
-	"github.com/llinder/svtauth/internal/grant"
-	"github.com/llinder/svtauth/internal/model"
+	"github.com/llinder/svtauthpoc/internal/grant"
+	"github.com/llinder/svtauthpoc/internal/model"
 
 	"github.com/gin-gonic/gin"
 )

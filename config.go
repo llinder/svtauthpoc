@@ -1,5 +1,5 @@
-package serverauth
+package svtauthpoc
 
 func Config() string {
-	return "serverauth"
+	return "svtauthpoc"
 }

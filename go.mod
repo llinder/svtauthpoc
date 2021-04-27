@@ -1,9 +1,6 @@
-module github.com/llinder/svtauth
+module github.com/llinder/svtauthpoc
 
 go 1.16
-
-
-// replace github.com/llinder/svtauth/pkg/routes v0.0.0 => ./pkg/routes
 
 require (
 	github.com/akamensky/argparse v1.2.2 // indirect
